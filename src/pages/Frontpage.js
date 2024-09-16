@@ -21,7 +21,7 @@ const Frontpage = () => {
             <div className="profile-details-name">
               <p className="primary-text">
                 Hello, I'M
-                <span className="highlighted-text">Ganesh Ghadge</span>
+                <span className="highlighted-text">Darrell Mucheri</span>
               </p>
             </div>
             <div className="profile-details-role">
